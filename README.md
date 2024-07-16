@@ -6,6 +6,16 @@ Duration : July to August,
 Mentor: Muzammil
 OVER VIEW OF THE PROJECT:
 Quiz Wuiz is a web-based quiz application designed to test users' knowledge through a series of multiple-choice questions. The application provides a user-friendly interface where participants can select answers, receive immediate feedback on correctness, and view their final score at the end of the quiz.
+![Screenshot (9)](https://github.com/user-attachments/assets/97e5ae70-e288-4dbc-995e-731e7a334806)
+![Screenshot (10)](https://github.com/user-attachments/assets/e0516c1d-4b08-4ee5-8eaf-d43d9f6b2e7f)
+![Screenshot (11)](https://github.com/user-attachments/assets/330d5a05-495a-4c43-8a0b-0698f555b651)
+![Screenshot (12)](https://github.com/user-attachments/assets/6b7ef5b4-7d85-46ef-8e90-a8164ca5cc26)
+![Screenshot (13)](https://github.com/user-attachments/assets/76365f3e-68ad-4ac5-ac7f-f7f3449102a2)
+![Screenshot (14)](https://github.com/user-attachments/assets/dcef4578-4b8c-46cd-9d71-c37cad7a47c3)
+![Screenshot (15)](https://github.com/user-attachments/assets/b9fbc49f-302c-4650-a504-0b1afaa09f03)
+
+
+
 
 FEATURES:
 
